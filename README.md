@@ -4,5 +4,5 @@ This project was done for the [Computer Networks Course](https://fenix.tecnico.u
 
 The team of three is:
  * Lourenço Ponces (me) - [LourencoPonces](https://github.com/LourencoPonces)
- * Maria Beatriz Martins - [apollee](https://github.com/apolle)
+ * Maria Beatriz Martins - [apollee](https://github.com/apollee)
  * Pedro Lamego - [pedro-lamego](https://github.com/pedro-lamego)
